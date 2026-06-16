@@ -1,0 +1,40 @@
+العربية - Grade1
+العربية - Grade2
+简体中文 - Xianxing(Shengdiao)
+繁體中文 - Xianxing(No Shengdiao)
+简体中文 - Shuangpin
+català - Grade1
+čeština - Grade1
+Dansk - Grade1
+Dansk - Grade2
+English - Grade1
+English - Grade2
+Suomen - Grade1
+Suomen - Grade2
+Français - Grade1
+Français - Grade2
+Deutsch - Grade1
+Deutsch - Grade2
+Ελληνικά - Grade1
+Ελληνικά - Grade2
+עברית - Grade1
+Italiano - Grade1
+日本語 - Grade1
+қазақ - Grade1
+ភាសាខ្មែរ - Grade1
+한국어 - Grade1
+한국어 - Grade2
+Norsk - Grade1
+Polsk - Grade1
+Português - Grade1
+Русский - Grade1
+Slovenský jazyk - Grade1
+Español - Grade1
+Svenska - Grade1
+Svenska - Grade2
+ภาษาไทย - Grade1
+ภาษาไทย - Grade2
+Tiếng Việt - Grade1
+Tiếng Việt - Grade2
+Oʻzbekcha - Grade1
+中華民國 - Grade1

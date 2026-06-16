@@ -1,0 +1,134 @@
+{
+    "audio_info": [
+        {
+            "id": 1,
+            "file_path": "/Users/park-yongseong/Desktop/test/audio/",
+            "file_name": "Summer.mp3",
+            "format": "mp3"
+
+        },
+       {
+           "id": 2,
+            "file_path": "/Users/park-yongseong/Desktop/test/audio/",
+            "file_name": "01.Perhaps Love.mp3",
+            "format": "mp3"
+       },
+       {
+           "id": 3,
+            "file_path": "/Users/park-yongseong/Desktop/test/audio/",
+            "file_name": "Henrik Chaim Goldschmidt plays Gabriels Oboe.mp3",
+            "format": "mp3"
+       },
+       {
+           "id": 4,
+            "file_path": "/Users/park-yongseong/Desktop/test/audio/",
+            "file_name": "Maybe_love.m4a",
+            "format": "m4a"
+       }
+    ],
+
+    "image_info": [
+        {
+            "id": 1,
+            "file_path": "/Users/park-yongseong/Desktop/test/images/",
+            "file_name": "car-967470_1920.png",
+            "format": "png"
+        },
+       {
+           "id": 2,
+            "file_path": "/Users/park-yongseong/Desktop/test/images/",
+            "file_name": "songoku.webp",
+            "format": "webp"
+       },
+       {
+           "id": 3,
+            "file_path": "/Users/park-yongseong/Desktop/test/images/",
+            "file_name": "20170805_131459.jpg",
+            "format": "jpg"
+       },
+       {
+           "id": 4,
+            "file_path": "/Users/park-yongseong/Desktop/test/images/",
+            "file_name": "2017_chyori.jpg",
+            "format": "jpg"
+       },
+      {
+           "id": 5,
+            "file_path": "/Users/park-yongseong/Desktop/test/images/",
+            "file_name": "kizaru.gif",
+            "format": "gif"
+       }
+    ],
+
+    "name_data": [
+
+        {
+            "xss": [
+                "<script>alert(1)</script>",
+                "<img src=x onerror=alert(1)>",
+                "javascript:alert(1)",
+                "'><script>alert(1)</script>",
+                "<svg onload=alert(1)>"
+            ]
+        },
+
+        {
+            "normal": [
+                "테스트폴더",
+                "TestFolder",
+                "CartellaTest",
+                "CarpetaPrueba",
+                "MapaTest",
+
+
+                "테스트폴더_123!",
+                "TestFolder_123!",
+                "Cartella_123@",
+                "Carpeta_456#",
+                "Mapa_789$",
+
+                "테스트_Test_123!",
+                "Cartella_Test_123@",
+                "Carpeta_Test_456#",
+                "Mapa_Test_789$"
+            ]
+        },
+        {
+            "encoding": [
+
+                "테스트_CartellaTest",
+                "테스트_CarpetaPrueba",
+                "테스트_MapaTest",
+
+                "Perché_폴더",
+                "Città_테스트",
+                "Qualità_123",
+
+                "Ñoño_폴더",
+                "España_테스트",
+                "Está_123",
+
+
+                "Čestitke_폴더",
+                "Šuma_테스트",
+                "Žaba_123",
+
+
+                "테스트_Perché_Ñoño",
+                "Città_Šuma_123",
+                "Está_Čestitke_폴더"
+
+            ]
+        },
+        {
+            "max_length": ["a", "한"]
+        },
+        {
+            "whitespace": ["", " ", "   ", " 폴더명 "]
+        }
+
+    ],
+
+    "dotpad_info": ["207C", "2079"]
+
+}

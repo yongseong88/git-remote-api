@@ -1,0 +1,254 @@
+{
+  "braille_info": [
+    {
+      "العربية": {
+        "language": "arabic",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+        }
+    },
+    {
+      "简体中文": {
+        "language": "simplified chinese",
+        "language_option": {
+          "Xianxing(Shengdiao)":  "1",
+          "Shuangpin": "3"}
+      }
+    },
+    {
+      "繁體中文": {
+        "language": "simplified chinese",
+        "language_option":
+          {"Xianxing(No Shengdiao)": "2"}
+      }
+    },
+    {
+      "català": {
+        "language": "catalan",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "čeština": {
+        "language": "czech",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "Dansk": {
+        "language": "danish",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"
+        }
+
+
+      }
+    },
+    {
+      "English": {
+        "language": "english",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+      }
+    },
+    {
+      "Suomen": {
+        "language": "finnish",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+      }
+    },
+    {
+      "Français": {
+        "language": "french",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+      }
+    },
+    {
+      "Deutsch": {
+        "language": "german",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+      }
+    },
+    {
+      "Ελληνικά": {
+        "language": "greek",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+        }
+    },
+    {
+      "עברית": {
+        "language": "hebrew",
+        "language_option": {
+          "Grade1": "1"}
+        }
+    },
+    {
+      "Italiano": {
+        "language": "italian",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "日本語": {
+        "language": "japanese",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "қазақ": {
+        "language": "kazakh",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "ភាសាខ្មែរ": {
+        "language": "khmer",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "한국어": {
+        "language": "korean",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+      }
+    },
+    {
+      "Norsk": {
+        "language": "norwegian",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "Polsk": {
+        "language": "polish",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "Português": {
+        "language": "portuguese",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "Русский": {
+        "language": "russian",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "Slovenský jazyk": {
+        "language": "slovak",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "Español": {
+        "language": "spanish",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "Svenska": {
+        "language": "swedish",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+      }
+    },
+    {
+      "ภาษาไทย": {
+        "language": "thai",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+      }
+    },
+    {
+      "Tiếng Việt": {
+        "language": "vietnamese",
+        "language_option": {
+          "Grade1": "1",
+          "Grade2": "2"}
+      }
+    },
+    {
+      "Oʻzbekcha": {
+        "language": "uzbek",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "中華民國": {
+        "language": "taiwan",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    },
+    {
+      "српски језик": {
+        "language": "serbian",
+        "language_option": {
+          "Grade": "2"
+        }
+      }
+    },
+    {
+      "srpski jezik": {
+        "language": "serbian",
+        "language_option": {
+          "Grade": "1"
+        }
+      }
+    },
+    {
+      "Hrvatski": {
+        "language": "croatian",
+        "language_option": {
+          "Grade1": "1"
+        }
+      }
+    }
+
+  ]
+}
