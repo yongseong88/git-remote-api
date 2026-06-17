@@ -19,7 +19,8 @@ class TestMain():
     def test_posts_lists(self, base_url):
         try:
             posts_action = PostsAction(base_url)
-            posts_action.posts_api()
+            posts_action.specific_user_post_api()
+            # posts_action.specific_post_api()
             # posts = posts_action.posts_api()
             # print(f"posts: {posts.json()}")
 
