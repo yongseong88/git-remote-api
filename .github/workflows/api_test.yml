@@ -4,7 +4,7 @@ on:
   schedule:
     # ┌ 분  ┌ 시(UTC)  ┌ 일  ┌ 월  ┌ 요일
     # 0    0          *    *    *   →  매일 UTC 00:00 = 한국시간(KST) 09:00
-    - cron: '20 2 * * *'
+    - cron: '14 18 * * *'
   workflow_dispatch:    # Actions 탭에서 수동 실행(버튼)도 가능하게
 
 jobs:
